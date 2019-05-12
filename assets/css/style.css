@@ -1,7 +1,6 @@
 body {
     width:100%;
-    background-image: url('/images/dark.png');
-   
+    background-image: url("https://jitheweb.github.io/Basic-Portfolio/assets/images/dark.png");
 }
 .header {
     width:100%;
